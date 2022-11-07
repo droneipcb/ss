@@ -15,7 +15,9 @@ sudo apt install -y nginx curl git
 
 cd ~
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+
 source ~/.bashrc
+
 nvm install v18.12.0
 
 cd ~
