@@ -1,2 +1,2 @@
-sudo mv default /etc/nginx/sites-available
+sudo cp default /etc/nginx/sites-available
 sudo systemctl restart nginx
