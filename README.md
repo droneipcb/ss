@@ -11,6 +11,7 @@ O script de instalação é o seguinte:
 -----------------------------------------------------------
 
 sudo apt update
+
 sudo apt install -y nginx curl git
 
 cd ~
