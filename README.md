@@ -15,6 +15,7 @@ sudo apt update
 sudo apt install -y nginx curl git
 
 cd ~
+
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 
 source ~/.bashrc
@@ -22,8 +23,10 @@ source ~/.bashrc
 nvm install v18.12.0
 
 cd ~
+
 git clone https://github.com/droneipcb/ss.git
 
 cd ~/ss/setup
+
 bash ./setup_nginx.sh
 
