@@ -1,0 +1,1 @@
+Exemplo de texto, para o qual vamos calcular hashes e autenticador

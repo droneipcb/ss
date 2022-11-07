@@ -1,0 +1,1 @@
+Esta mensagem vai ser usada para calcular as assinaturas digitais
